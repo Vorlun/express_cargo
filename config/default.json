@@ -1,0 +1,4 @@
+{
+    "port":8008,
+    "dbUri":"mongodb://localhost:27017/express_cargo"
+}
